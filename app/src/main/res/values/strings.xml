@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VocabMaster</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title">VocabMaster</string>
+    <string name="edit_username">Enter your user name</string>
+    <string name="welcome_text">Welcome to VocabMaster.\nTake your vocabulary to the next step.</string>
+    <string name="login_btn_text">Login</string>
+    <string name="pswd_hint">Enter your password</string>
+    <string name="web"><a href="http://www.google.com">Check us out on the web!</a></string>
+</resources>
